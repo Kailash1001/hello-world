@@ -1,2 +1,2 @@
 # hello-world
-Welcoming message in Java.
+Welcome message in Java.
